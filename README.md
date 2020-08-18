@@ -1,5 +1,5 @@
 # 3D-Noise-FlowField
- An audio visualizer created from an online tutorial.
+ An audio visualizer created from an online tutorial with my own additions and changes.
 
 ## Instructions
 - Use your own music but has to be a .wav
